@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Impact
+  - Bounce
+  - Destructible
+  - SkyPlane
+  - Playground
+  - Underground
+  - Item
+  - Fire
+  - Bullseyes
   layers:
   - Default
   - TransparentFX
@@ -13,10 +22,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Bullets
+  - Bulleyes
+  - Player
+  - Walls
   - 
   - 
   - 
